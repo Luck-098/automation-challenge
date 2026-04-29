@@ -1,0 +1,22 @@
+{
+  "name": "automation-challenge",
+  "version": "1.0.0",
+  "description": "Meu repositório para treinar teste automatizados",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
